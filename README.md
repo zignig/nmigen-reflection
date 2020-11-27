@@ -1,4 +1,4 @@
-# nmigen_reflection
+# nmigen-reflection
 nmigen_boards -> nmigen_stdio reflection.
 
 # Relfector
